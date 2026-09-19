@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+dist/
+*.spec
+*.spec.py
+*.egg-info/
+
+# Virtual env
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project
+settings.json
+*.mp4
+*.avi
+recordings/
+.k1motion/
+.k1_motion_guard/
+*.log
+
+# Executables
+*.exe
+*.dll
